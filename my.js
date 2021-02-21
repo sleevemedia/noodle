@@ -9,3 +9,4 @@ for (let key in user) {
   alert(user[key]);
 }
 console.log(user);
+console.log("boop");
