@@ -1,2 +1,2 @@
 # noodle
-JS Learn
+Time to learn some JavaScript and git.
